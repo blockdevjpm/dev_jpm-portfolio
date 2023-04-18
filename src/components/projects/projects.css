@@ -1,0 +1,22 @@
+.projects {
+    padding: 45px;
+}
+
+.skills_container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    max-width: 100%;
+    gap: 3rem;
+}
+
+.projects_container {
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    max-width: 100%;
+    gap: 5rem;
+}

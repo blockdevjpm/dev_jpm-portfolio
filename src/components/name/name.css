@@ -1,0 +1,60 @@
+.name-container {
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dev_pic {
+    width: 30%;
+    height: auto;
+    box-shadow: 0 0 0 14px #fefefe, 0 0 0 15px #131918, -30px -30px 0 10px var(--main);
+    height: auto;
+    margin: 5rem;
+    padding: 5px 10px 10px 5px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+.dev_pic:hover {
+    transform: scale(1.125);
+}
+
+.text_container {
+    padding: 0;
+    margin: 0;
+}
+
+.text_container > h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 5.5rem;
+    line-height: 1.4;
+}
+
+.name {
+    text-decoration: underline;
+    text-decoration-color:var(--main);
+    text-decoration-thickness: 1.25rem;
+    cursor: pointer;
+}
+
+.name:hover {
+    text-decoration: none;
+    background-color: var(--main);
+    transition: all .3s ease-in-out;
+    color: #fff;
+}
+
+.tw_container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+.tw_text {
+    font-weight: 700;
+    color: purple;
+}
+
