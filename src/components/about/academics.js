@@ -3,7 +3,7 @@ const academics = [
         course:"B.Sc. in Transport Technology",
         school:"Gati Shakti Viswavidyalaya (formerly, known as NRTI), Vadodara",
         yop:"2023",
-        grade:"83%"
+        grade:"82%"
     },
     {
         course:"Class 12th",
