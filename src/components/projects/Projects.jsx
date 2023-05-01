@@ -28,6 +28,12 @@ const Projects = () => {
         source= "https://github.com/blockdevjpm/restaurant_ui_ux.git"
         title= "Restaurant Landing Page"
     />
+    <ProjectCards 
+        website= "https://pirateaichatbot.netlify.app/"
+        image= {img12}
+        source= "https://github.com/blockdevjpm/pirate_ai_chatbot"
+        title= "Pirate AI Chatbot"
+    />
     </div>
     </div>
   )
