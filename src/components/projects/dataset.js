@@ -10,6 +10,7 @@ const dataset = {
                     "Node.js",
                     "SQL",
                     "UI / UX Designer",
+                    "AI API Integration",
                     "Scrum Method"
                 ],
 
